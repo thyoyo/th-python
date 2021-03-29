@@ -65,7 +65,7 @@ olefile==0.44
 Pillow==4.3.0
 pyasn1==0.4.2
 pyDes==2.0.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyhs2==0.6.0
 pykerberos==1.1.14
 pypinyin==0.28.0
