@@ -76,7 +76,7 @@ pytz==2017.3
 redis==2.10.6
 requests==2.18.4
 requests-kerberos==0.11.0
-rsa==3.4.2
+rsa==4.7
 sasl==0.2.1
 singledispatch==3.4.0.3
 six==1.11.0
