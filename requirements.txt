@@ -81,7 +81,7 @@ sasl==0.2.1
 singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.1.15
-suds==0.4
+suds==1.0.0
 thrift==0.10.0
 thrift-sasl==0.3.0
 tornado==4.5.2
